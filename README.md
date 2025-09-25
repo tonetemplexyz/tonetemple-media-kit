@@ -6,21 +6,14 @@ the Web3 music ecosystem where sound, sovereignty, and community converge.
 ---
 
 ## 📂 Contents
-- **Brand Identity** → Logos, emblems, and usage guidelines  
-- **Pitch Decks** → Investor, partnership, and event decks  
-- **Business & Tokenomics** → $TONE utility and ecosystem docs  
-- **Technology & Product** → Onboarding strategy, SONA AI, collaboration model  
-- **Roadmaps & Whitepapers** → Milestones, critical tasks, sustainability plan  
-- **Marketing & PR** → Bios, press releases, content assets  
-- **Multimedia** → Concert photos, showcase videos, banners  
-- **Legal & Compliance** → Drafts and compliance frameworks  
-
----
-
-## 📢 How to Use
-- **Press & Media** → Start with *Marketing & PR* + *Brand Identity*  
-- **Investors & Partners** → Check *Pitch Decks* + *Business & Tokenomics*  
-- **Developers & Tech** → Explore *Technology & Product* + *Legal & Compliance*  
+- **[Brand Identity](brand/)** → Logos, emblems, and usage guidelines  
+- **[Pitch Decks](decks/)** → Investor, partnership, and event decks  
+- **[Business & Tokenomics](tokenomics/)** → $TONE utility and ecosystem docs  
+- **[Technology & Product](product/)** → Onboarding strategy, SONA AI, collaboration model  
+- **[Roadmaps & Whitepapers](roadmaps/)** → Milestones, critical tasks, sustainability plan  
+- **[Marketing & PR](marketing/)** → Bios, press releases, content assets  
+- **[Multimedia](multimedia/)** → Concert photos, showcase videos, banners  
+- **[Legal & Compliance](legal/)** → Drafts and compliance frameworks
 
 ---
 
