@@ -40,3 +40,12 @@ For media or partnership use, please contact: **hello@tonetemple.xyz**
 ---
 
 ⚡ *Tone Temple: Enter the Temple of Tones, your portal to freedom.*
+
+---
+
+## 📜 Usage Note
+All brand assets and documents in this repository are © 2025 Tone Temple. 
+
+They may not be altered, redistributed, or used for commercial purposes without prior written consent.  
+
+For press or partnership use, please contact: **hello@tonetemple.xyz**
