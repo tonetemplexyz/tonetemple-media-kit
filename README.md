@@ -20,7 +20,7 @@ the Web3 music ecosystem where sound, sovereignty, and community converge.
 ## 🌐 Official Links
 - Website: [tonetemple.xyz](https://tonetemple.xyz)  
 - Twitter/X: [@ToneTempleXYZ](https://x.com/ToneTempleXYZ)  
-- Telegram: [Join the Community](https://t.me/tonetemplexyz)  
+- LinkTree [Join the Community](https://linktr.ee/tonetemplexyz)  
 
 ---
 
