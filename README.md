@@ -13,32 +13,24 @@ the Web3 music ecosystem where sound, sovereignty, and community converge.
 - **[Roadmaps & Whitepapers](roadmaps/)** → Milestones, critical tasks, sustainability plan  
 - **[Marketing & PR](marketing/)** → Bios, press releases, content assets  
 - **[Multimedia](multimedia/)** → Concert photos, showcase videos, banners  
-- **[Legal & Compliance](legal/)** → Drafts and compliance frameworks
+- **[Legal & Compliance](legal/)** → Drafts and compliance frameworks  
 
 ---
 
 ## 🌐 Official Links
-- Website: [tonetemple.xyz](https://tonetemple.xyz)  
-- Twitter/X: [@ToneTempleXYZ](https://x.com/ToneTempleXYZ)  
-- LinkTree [Join the Community](https://linktr.ee/tonetemplexyz)  
+- Website → [tonetemple.xyz](https://tonetemple.xyz)  
+- Twitter/X → [@ToneTempleXYZ](https://x.com/ToneTempleXYZ)  
+- LinkTree → [Join the Community](https://linktr.ee/tonetemplexyz)  
 
 ---
 
 ## 📜 License & Usage
-All brand assets, logos, and documents in this repository are © Tone Temple.  
-They may not be altered, redistributed, or used for commercial purposes without prior written consent.  
-
-For media or partnership use, please contact: **hello@tonetemple.xyz**  
-
----
-
-⚡ *Tone Temple: Enter the Temple of Tones, your portal to freedom.*
-
----
-
-## 📜 Usage Note
-All brand assets and documents in this repository are © 2025 Tone Temple. 
+All brand assets, logos, and documents in this repository are © 2025 Tone Temple.  
 
 They may not be altered, redistributed, or used for commercial purposes without prior written consent.  
 
-For press or partnership use, please contact: **hello@tonetemple.xyz**
+For press, media, or partnership use, please contact → **hello@tonetemple.xyz**  
+
+---
+
+⚡ *Tone Temple — Enter the Temple of Tones, your portal to freedom.*
